@@ -1,4 +1,4 @@
-
+#in this we are using weaviate vectorDatabase
 import weaviate
 from weaviate.classes.init import Auth
 from weaviate.classes.config import Property, DataType, Configure
