@@ -1,7 +1,4 @@
 from LLM_calling import generate
-import random
-import numpy as np
-
 
 #response = generate(prompt=input("Enter Your Prompt : "),temperature=0.5,top_p=1,max_tokens=500)
 
