@@ -1,8 +1,8 @@
 import requests
-url = 'https://openrouter.ai/api/v1/chat/completions'
 
 
-api = 'enter your api mine is private'
+#create variable url and API 
+
 
 messages = []
 
